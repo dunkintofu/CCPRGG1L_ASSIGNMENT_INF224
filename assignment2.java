@@ -11,7 +11,7 @@ public class Assignment2 {
         count2 ++;
     } while (count2 != 4);
     for (int count3 = 0; count3  != 5;  count3 ++) {
-    System.out.println("CADIZ");
+    System.out.println("VILLENA");
     }
     char [] myFirstName = {'M', 'A', 'R', 'I', 'E', 'L', 'L', 'E', 'K', 'Y', 'L", 'A'};
     for (int i = 0; i < myFirstName.length; i++){
