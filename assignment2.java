@@ -13,7 +13,7 @@ public class Assignment2 {
     for (int count3 = 0; count3  != 5;  count3 ++) {
     System.out.println("VILLENA");
     }
-    char [] myFirstName = {'M', 'A', 'R', 'I', 'E', 'L', 'L', 'E', 'K', 'Y', 'L", 'A'};
+    char [] myFirstName = {'M', 'A', 'R', 'I', 'E', 'L', 'L', 'E', 'K', 'Y', 'L', 'A'};
     for (int i = 0; i < myFirstName.length; i++){
     System.out.println(myFirstName[i]);
     }  
